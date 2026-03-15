@@ -1,5 +1,5 @@
   #include <stdio.h>
 
 void main() {
-  printf("una tuna i lux");
+  printf("vezba za klk");
 }
