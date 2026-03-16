@@ -1,5 +1,5 @@
   #include <stdio.h>
 
 void main() {
-  printf("vezba za klk");
+  printf("vezba za klk opet");
 }
